@@ -13,7 +13,6 @@ const fullName = '${fristName} ${lastName}';
 
 console.log(fullName)
 
-
 /*
   Arregla el error
 */
