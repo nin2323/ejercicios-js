@@ -83,7 +83,7 @@ console.log(result);
 result = x !== y && x === 5 && y == 5;
 console.log(result);
 
-//
+// x = 0 y = 1
 result = !x || (x && !y) || (y && x);
 console.log(result);
 
